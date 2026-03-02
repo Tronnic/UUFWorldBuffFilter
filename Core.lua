@@ -12,6 +12,13 @@ local DEFAULT_BLACKLIST = {
   [404468]  = true,
   [296863]  = true,
   [430191]  = true,
+  [264408]  = true,
+  [269083]  = true,
+  [282559]  = true,
+  [377234]  = true,
+  [1239152] = true,
+  [1239158] = true,
+  [1239171] = true,
 }
 
 -- seed defaults
